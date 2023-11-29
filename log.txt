@@ -4,3 +4,4 @@ Fix issue in Y [9W0lm6] line 4.2
 Fix issue in Y [L2Nf2W] line 7.2
 Refactor codebase with Z [YtsDOt] line 8.2
 Update documentation [aA4a1H] line 11.1
+Add test case for W [CtTaaP] line 13.2
